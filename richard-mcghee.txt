@@ -1,6 +1,6 @@
 Codepen link for Git project:
 
-https://codepen.io/RichardJMcGhee/pen/yLYpqyy?editors=0100
+https://codepen.io/RichardJMcGhee/pen/VwewYjL?editors=0100
 
 Codepeden link from User Interface:
 
@@ -69,7 +69,7 @@ For an example, I would id my main header in a page with a specific name, main-h
 20. How do we select classes in CSS?
 You place a . before the class name. .class
 
-21. How do we select a p element with a single class of “human””?
+21. How do we select a p element with a single class of ï¿½humanï¿½ï¿½?
 p .human
 
 22. What is a parent child selector? When would this be useful? 
@@ -126,3 +126,17 @@ git push origin name
 4. Create a new branch in your project and label it with your name
 5. After commiting all your changes, perform a pull request. Insure in your pull request to compare to other forks and use your fork as the base fork. Add your TL as a reviewer before completing your pull request.
 6. Finished, wait for review.
+
+Stretch:
+
+1. What is the difference between an inline element and a block element?
+An inline element only takes up as much space as it needs. A block element takes up an entire line.
+
+2. What happens when an element is positioned absolutely?
+
+3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
+Display it as an inline-block
+
+4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default.
+
+5. In your own words, explain the box model. What is the fix for the box model?
